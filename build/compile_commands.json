@@ -1,0 +1,254 @@
+[
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\convgpx.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\convgpx.c",
+  "file": "E:/rtklib_vscode/rtklib/src/convgpx.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/convgpx.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\convkml.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\convkml.c",
+  "file": "E:/rtklib_vscode/rtklib/src/convkml.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/convkml.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\convrnx.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\convrnx.c",
+  "file": "E:/rtklib_vscode/rtklib/src/convrnx.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/convrnx.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\datum.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\datum.c",
+  "file": "E:/rtklib_vscode/rtklib/src/datum.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/datum.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\download.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\download.c",
+  "file": "E:/rtklib_vscode/rtklib/src/download.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/download.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\ephemeris.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\ephemeris.c",
+  "file": "E:/rtklib_vscode/rtklib/src/ephemeris.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/ephemeris.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\geoid.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\geoid.c",
+  "file": "E:/rtklib_vscode/rtklib/src/geoid.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/geoid.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\gis.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\gis.c",
+  "file": "E:/rtklib_vscode/rtklib/src/gis.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/gis.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\ionex.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\ionex.c",
+  "file": "E:/rtklib_vscode/rtklib/src/ionex.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/ionex.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\lambda.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\lambda.c",
+  "file": "E:/rtklib_vscode/rtklib/src/lambda.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/lambda.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\options.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\options.c",
+  "file": "E:/rtklib_vscode/rtklib/src/options.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/options.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\pntpos.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\pntpos.c",
+  "file": "E:/rtklib_vscode/rtklib/src/pntpos.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/pntpos.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\postpos.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\postpos.c",
+  "file": "E:/rtklib_vscode/rtklib/src/postpos.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/postpos.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\ppp.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\ppp.c",
+  "file": "E:/rtklib_vscode/rtklib/src/ppp.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/ppp.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\ppp_ar.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\ppp_ar.c",
+  "file": "E:/rtklib_vscode/rtklib/src/ppp_ar.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/ppp_ar.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\preceph.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\preceph.c",
+  "file": "E:/rtklib_vscode/rtklib/src/preceph.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/preceph.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\binex.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\binex.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/binex.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/binex.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\crescent.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\crescent.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/crescent.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/crescent.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\javad.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\javad.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/javad.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/javad.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\novatel.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\novatel.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/novatel.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/novatel.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\nvs.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\nvs.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/nvs.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/nvs.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\rt17.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\rt17.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/rt17.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/rt17.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\septentrio.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\septentrio.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/septentrio.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/septentrio.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\skytraq.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\skytraq.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/skytraq.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/skytraq.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\ss2.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\ss2.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/ss2.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/ss2.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcv\\ublox.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcv\\ublox.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcv/ublox.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcv/ublox.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rcvraw.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rcvraw.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rcvraw.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rcvraw.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rinex.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rinex.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rinex.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rinex.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rnx2rtkp.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rnx2rtkp.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rnx2rtkp.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rnx2rtkp.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtcm.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtcm.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtcm.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtcm.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtcm2.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtcm2.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtcm2.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtcm2.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtcm3.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtcm3.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtcm3.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtcm3.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtcm3e.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtcm3e.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtcm3e.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtcm3e.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtkcmn.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtkcmn.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtkcmn.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtkcmn.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtkpos.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtkpos.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtkpos.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtkpos.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\rtksvr.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\rtksvr.c",
+  "file": "E:/rtklib_vscode/rtklib/src/rtksvr.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/rtksvr.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\sbas.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\sbas.c",
+  "file": "E:/rtklib_vscode/rtklib/src/sbas.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/sbas.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\solution.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\solution.c",
+  "file": "E:/rtklib_vscode/rtklib/src/solution.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/solution.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\stream.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\stream.c",
+  "file": "E:/rtklib_vscode/rtklib/src/stream.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/stream.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\streamsvr.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\streamsvr.c",
+  "file": "E:/rtklib_vscode/rtklib/src/streamsvr.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/streamsvr.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\tides.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\tides.c",
+  "file": "E:/rtklib_vscode/rtklib/src/tides.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/tides.c.obj"
+},
+{
+  "directory": "E:/rtklib_vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DWIN32 -D_WIN_DLL @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -o CMakeFiles\\rnx2rtkp.dir\\rtklib\\src\\tle.c.obj -c E:\\rtklib_vscode\\rtklib\\src\\tle.c",
+  "file": "E:/rtklib_vscode/rtklib/src/tle.c",
+  "output": "CMakeFiles/rnx2rtkp.dir/rtklib/src/tle.c.obj"
+}
+]

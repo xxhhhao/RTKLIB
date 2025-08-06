@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/rtklib_vscode/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
