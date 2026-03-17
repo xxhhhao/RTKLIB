@@ -1,5 +1,4 @@
 单点定位测试终端命令
-./rnx2rtkp.exe -x 5 -p 0 -m 15 -n -o E:\\rtklib_vscode\\result\\out.pos E:\\rtklib_vscode\\test_data\\rinex\\07590920.05o E:\\rtklib_vscode\\test_data\\rin
-ex\\07590920.05n
+ bin\rnx2rtkp.exe -x 5 -p 0 -m 15 -n -o result\test_out.pos test_data\rinex\07590920.05o test_data\rinex\07590920.05n
 
 
